@@ -6,7 +6,7 @@ subtitle: PhD Candidate of Electrical Engineering at <a href="https://engineerin
 
 profile:
   align: right
-  image: tao-sky-dive.jpg
+  image: tao-sky-dive.JPG
   image_circular: false # crops the image to make it circular
   address: >
     <p>10th FL, NYU Center for Cybersecuirty</p>
