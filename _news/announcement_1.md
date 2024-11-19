@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm visiting coordinated science laboratory at UIUC. If you are around and interested in talking to me, drop me an message. 
+I had a wonderful time in the coordinated science laboratory at UIUC this summer. Heartfelt thanks to [Prof.Başar](https://tamerbasar.csl.illinois.edu/) for his hosting! 
