@@ -6,7 +6,7 @@
     "email": "taoli@nyu.edu",
     "phone": "(347) 725-7275",
     "url": "https://taoli-nyu.github.io",
-    "summary": "A researcher working on game-theoretic learning under amorphous information.",
+    "summary": "A researcher working on game-theoretic multi-agent learning under amorphous information structures.",
     "location": {
       "address": "370 Jay St",
       "postalCode": "NY 11201",
@@ -30,7 +30,7 @@
       "startDate": "2018-09-01",
       "endDate": "",
       "summary": "Conducting reserach at NYU Center for Cybersecurity. My reserach brings together game theory, machine leanring, and control to develope system-level solution for cyber resilience.",
-      "highlights": ["Game Theory", "Reinforcement Learning", "Information Structures"]
+      "highlights": ["Game Theory", "Reinforcement Learning", "Control & Optimization"]
     }
   ],
 
@@ -44,10 +44,23 @@
       "startDate": "2014-09-01",
       "endDate": "2018-07-01",
       "score": "",
-      "courses": ["Harmonic Analysis", ""]
+      "courses": ["Harmonic Analysis", "Wavelets"]
     }
   ],
   "awards": [
+    {
+      "title": "Rising Star in AI and Machine Learning in Security",
+      "date": "2024-11",
+      "awarder" : "IEEE Technical Committee on Cognitive Networks"
+    },
+
+    {
+      "title": "Society for Industrial and Applied Mathematics Travel Award",
+      "date": "2024-09",
+      "awarder" : "SIAM"
+    },
+
+
     {
       "title": "The Dante Youla Award For Research Excellence in Electrical Engineering",
       "date": "2024-05",
@@ -64,7 +77,7 @@
       "awarder": "American Automatic Control Council"
     },
     {
-      "title": "Conference on Decision and Game Theory for Security Travel Award",
+      "title": "Decision and Game Theory for Security Travel Award",
       "date" : "2022-10",
       "awarder": "Decision and Game Theory for Security Organizing Committee"
     },
@@ -105,7 +118,7 @@
     {
       "name" : "Dr. Tamer Basar",
       "reference": "Swanlund Endowed Chair Emeritus and Center for Advanced Study Professor Emeritus Department of Electrical and Computer Engineering, UIUC.",
-      "email": " basar1@illinois.edu"
+      "email": "basar1@illinois.edu"
     }
   ]
   
