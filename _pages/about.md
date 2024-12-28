@@ -25,10 +25,10 @@ social: false  # includes social icons at the bottom of the page
 **Bio:** I am a PhD candidate in the Department of Electrical and Computer Engineering at New York University, working with [Quanyan Zhu](https://wp.nyu.edu/quanyan/). Before doing my PhD, I worked on [computational harmonic analysis](https://www.sciencedirect.com/science/article/pii/S0893965918304221) with [Bin Han](https://sites.ualberta.ca/~bhan/) at University of Alberta. I received the BS degree in Mathematics from Xiamen University. 
 
 **Research Overview:** My research aims to develop 
-> ### (Theory) computational foundations of agent-based technologies
+>  (Theory) **computational foundations of agent-based technologies** 
 
  with self-improving and self-healing abilities to facilitate 
- > ### (Application) autonomous cyber-physical-human systems security & resilience
+ >  (Application) **autonomous cyber-physical-human systems security & resilience**
 
  without human interventions (see the graphical abstract below, references herein point to the [CV](https://taoli-nyu.github.io/assets/pdf/TaoLi_Curriculum_Vitae.pdf)). 
  
