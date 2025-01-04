@@ -7,7 +7,18 @@ nav: true
 nav_order: 2
 ---
 
-# 2024
+
+{% include bib_search.liquid %}
+
+<div class="publications">
+
+{% bibliography %}
+
+</div>
+
+
+
+<!-- >## 2024
 
 <details>
     <summary><h2 style="display:inline-block"> Towards Agent-based Autonomous Network Security</h2> </summary> 
@@ -16,7 +27,7 @@ nav_order: 2
     Security of cyber-physical network systems, such as 5G/6G communication networks, vehicular networks, and the Internet of Things, has become increasingly critical nowadays. Traditional security mechanisms rely primarily on manual operations, which can be slow, expensive, and ineffective in the face of the dynamic landscape of adversarial threats. This problem will only be exacerbated as attackers leverage artificial intelligence (AI) to automate their workflows. As a countermeasure, safeguarding critical network systems also calls for autonomous defensive operations that delegate security decisions to AI agents. This talk presents our agent-based framework for autonomous attack detection and response using reinforcement learning (RL) and large language models (LLM). To address conventional RL's reactive nature, we propose a new RL paradigm, conjectural online RL (coRL), to equip the security agent with predictive power when dealing with the agent's epistemic uncertainty over the attacker's presence and actions. The intuition of coRL is to endogenize the epistemic uncertainty as part of the RL process: the agent maintains an internal world model as a conjecture of the uncertainty, and the learned conjecture produces valid predictions consistent with environment feedback induced by epistemic uncertainty. To mitigate the RL agent's reliance on stylized modeling and textual data pre-processing, we further incorporate LLMs into the agentic framework to deliver end-to-end autonomous cyber operations. We finally conclude the talk by discussing the path ahead to building fully autonomous security agents. 
 
     References:
-    1. K. Hammar, T. Li, R. Stadler, and Q. Zhu, "Automating security strategies through online learning with adaptive conjectures,"  IEEE Transactions on Information Forensics and Security, 2024, to appear. 
+    1. K. Hammar, T. Li, R. Stadler, and Q. Zhu, "Automating security strategies through online learning with adaptive conjectures,"  IEEE Transactions on Information Forensics and Security, 2025, to appear. 
 
     2. T. Li, K. Hammar, R. Stadler, and Q. Zhu, "Conjectural online learning with first-order beliefs in asymmetric information stochastic games," in 63rd IEEE Conference on Decision and Control (CDC 2024), Milan, Italy, Dec. 2024.
 </details> 
@@ -69,6 +80,7 @@ nav_order: 2
 *Coordinated Science Laboratory, University of Illinois Urbana-Champaign, IL, Aug. 13*
 
 
+
 <details>
     <summary><h2 style="display: inline-block"> Automated Security Response Through Conjectural Online Learning under Information Asymmetry </h2></summary>
 
@@ -88,7 +100,7 @@ nav_order: 2
 ## Multi-level Traffic-responsive Tilt Camera Surveillance through Predictive Correlated Online Learning
 *NYU Urban Research Day, NY, Mar. 6*
 
-# Before 2024
+> ## Before 2024
 
 
 ### On the Role of Information Structures in Multi-agent Learning
@@ -101,4 +113,4 @@ nav_order: 2
 *INFORMS Annual Meeting, Workshop on Multi-agent Learning, Online, Nov. 16, 2020.*
 
 ### Directional Framelets and its Application in Medical Imaging
-*PIMS-AMI Workshop on Applied Harmonic Analysis, University of Alberta, Canada, Aug. 2017.*
+*PIMS-AMI Workshop on Applied Harmonic Analysis, University of Alberta, Canada, Aug. 2017.* -->
