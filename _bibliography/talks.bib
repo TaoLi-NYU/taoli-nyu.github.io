@@ -12,7 +12,7 @@ abstract = {}
 @inproceedings{opt-urban,
 title = {{Online Optimization Meets Urban Transportation}},
 booktitle = {Student Learning Hub Seminar Series},
-location = {C2SMART Center, New York University, Brooklyn, NY},
+location = {C2SMART Center, New York University, New York, NY},
 year  = {2024},
 month = {Nov},
 video = {https://youtu.be/H5WU3tElQAM?si=Vnm-gaquXthC9ijx},
@@ -30,7 +30,7 @@ title = {{Towards Agent-based Autonomous Network Security}},
 booktitle = {IEEE COMSOC TCCN Rising Star Symposium Series},
 location = {Stevens Institute of Technology, Hoboken, NJ},
 year  = {2024},
-month = {Nov. 21},
+month = {Nov},
 video = {https://www.youtube.com/embed/H5WU3tElQAM?si=MxM4bNwgFM1hNcPw},
 abstract = {Security of cyber-physical network systems, such as 5G/6G communication networks, vehicular networks, and the Internet of Things, has become increasingly critical nowadays. Traditional security mechanisms rely primarily on manual operations, which can be slow, expensive, and ineffective in the face of the dynamic landscape of adversarial threats. This problem will only be exacerbated as attackers leverage artificial intelligence (AI) to automate their workflows. As a countermeasure, safeguarding critical network systems also calls for autonomous defensive operations that delegate security decisions to AI agents. This talk presents our agent-based framework for autonomous attack detection and response using reinforcement learning (RL) and large language models (LLM). To address conventional RL's reactive nature, we propose a new RL paradigm, conjectural online RL (coRL), to equip the security agent with predictive power when dealing with the agent's epistemic uncertainty over the attacker's presence and actions. The intuition of coRL is to endogenize the epistemic uncertainty as part of the RL process: the agent maintains an internal world model as a conjecture of the uncertainty, and the learned conjecture produces valid predictions consistent with environment feedback induced by epistemic uncertainty. To mitigate the RL agent's reliance on stylized modeling and textual data pre-processing, we further incorporate LLMs into the agentic framework to deliver end-to-end autonomous cyber operations. We finally conclude the talk by discussing the path ahead to building fully autonomous security agents. }
 }
@@ -39,7 +39,7 @@ abstract = {Security of cyber-physical network systems, such as 5G/6G communicat
 @inproceedings{cityu,
 title = {Conjectural Online Learning in Asymmetric Information Stochastic Games},
 booktitle = {Systems Engineering Department Seminar Series},
-location  = {City University of Hongkong, HK},
+location  = {City University of Hongkong, Hong Kong},
 month = {Oct},
 year = {2024},
 abstract = {Modern socio-technical network systems powered by artificial intelligence (AI) technologies feature sophisticated interactions among humans, AI agents, and system entities. Asymmetric information stochastic games (AISG) provide principled mathematical modeling for such interactions, leading to game-theoretical mechanisms for network management. However, existing computational and learning methods in asymmetric information stochastic games (AISG) are primarily offline without adaptability to online nonstationarity, which falls short of proactive intelligence for resilient network management. To address these limitations, we propose conjectural online learning (COL), an online learning framework for generic AISGs. COL uses a forecaster-actor-critic (FAC) architecture, where the forecaster conjectures the other agents' strategies and system dynamics within a look-ahead horizon, representing the agent's subjective (mis)perception of the AISG. Based on these subjective perceptions, COL employs online rollout (actor-critic) to improve the policy. Bayesian learning is then used to calibrate the conjectures using information feedback. We establish that the conjectures produced by COL are asymptotically consistent with the information feedback in the sense of a relaxed Bayesian consistency. We deploy COL in a nonstationary IT infrastructure digital twin, which delivers online adaptable defense against advanced persistent threats compared with benchmark reinforcement learning techniques. }
@@ -49,14 +49,14 @@ abstract = {Modern socio-technical network systems powered by artificial intelli
 @inproceedings{nsf-llm,
 title = {{Agent of Agents: Meta LLM-Agent for Autonomous Security Operations}},
 booktitle = {NSF Workshop on Large Language Models for Network Security},
-location = {Center for Cybersecurity, New York University, Brooklyn, NY},
+location = {Center for Cybersecurity, New York University, New York, NY},
 month = {Oct},
 year  = {2024},
 html = {https://nyu-larx.github.io/nsf-llm4security/},
 abstract = {}
 }
 
-@inproceedings{csl
+@inproceedings{csl,
 title = {{Conjectural Online Learning with First-order Beliefs in Stochastic Games}},
 location = {Coordinated Science Laboratory, University of Illinois Urbana-Champaign, Champaign, IL},
 month = {Aug},
@@ -64,7 +64,7 @@ year  = {2024},
 abstract = {Existing computational methods for asymmetric information stochastic games (AISG) are primarily offline and can not adapt to equilibrium deviations. Further, current methods are limited to particular information structures to avoid belief hierarchies. Considering these limitations, we propose conjectural online learning (COL), an online learning method under generic information structures in AISGs. COL uses a forecaster-actor-critic architecture, where subjective forecasts are used to conjecture the opponents' strategies within a lookahead horizon, and Bayesian learning is used to calibrate the conjectures. To adapt strategies to nonstationary environments based on information feedback, COL uses online rollout with cost function approximation (actor-critic). We prove that the conjectures produced by COL are asymptotically consistent with the information feedback in the sense of a relaxed Bayesian consistency. We also prove that the empirical strategy profile induced by COL converges to the Berk-Nash equilibrium, a solution concept characterizing rationality under subjectivity.}
 }
 
-@inproceedings{caltech
+@inproceedings{caltech,
 title = {{Automated Security Response Through Conjectural Online Learning under Information Asymmetry }},
 location = {Autonomous Robotics and Control Lab, California Institute of Technology, Pasadena, CA},
 month = {Jun},
@@ -73,14 +73,15 @@ abstract = {We study automated security response for an IT infrastructure and fo
 }
 
 
-@inproceedings{nyu-urban
+@inproceedings{nyu-urban,
 title = {{Multi-level Traffic-responsive Tilt Camera Surveillance through Predictive Correlated Online Learning}},
 booktitle = {NYU Urban Research DAy},
-location = {},
+location = {The Robert F. Wagner Graduate School of Public Service, New York University, New York, NY},
 month = {Mar},
 year  = {2024},
 html = {https://www.sciencedirect.com/science/article/abs/pii/S0968090X24003255},
 arxiv = {https://arxiv.org/abs/2407.15025},
+poster = {TTC-X-poster.pdf}
 abstract = {In urban traffic management, the primary challenge of dynamically and efficiently monitoring traffic conditions is compounded by the insufficient utilization of thousands of surveillance cameras along the intelligent transportation system.  This paper introduces the multi-level Traffic-responsive Tilt Camera surveillance system (TTC-X), a novel framework designed for dynamic and efficient monitoring and management of traffic in urban networks. By leveraging widely deployed pan-tilt-cameras (PTCs), TTC-X overcomes the limitations of a fixed field of view in traditional surveillance systems by providing mobilized and 360-degree coverage. The innovation of TTC-X lies in the integration of advanced machine learning modules, including a detector-predictor-controller structure, with a novel Predictive Correlated Online Learning (PiCOL) methodology and the Spatial-Temporal Graph Predictor (STGP) for real-time traffic estimation and PTC control. The TTC-X is tested and evaluated under three experimental scenarios (e.g., maximum traffic flow capture, dynamic route planning, traffic state estimation) based on a simulation environment calibrated using real-world traffic data in Brooklyn, New York. The experimental results showed that TTC-X captured over 60\% total number of vehicles at the network level, dynamically adjusted its route recommendation in reaction to unexpected full-lane closure events, and reconstructed link-level traffic states with best MAE less than 1.25 vehicle/hour. Demonstrating scalability, cost-efficiency, and adaptability, TTC-X emerges as a powerful solution for urban traffic management in both cyber-physical and real-world environments.}
 }
 
