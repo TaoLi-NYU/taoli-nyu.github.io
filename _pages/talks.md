@@ -10,7 +10,7 @@ nav_order: 2
 
 <div class="publications">
 
-{% talkbib %}
+{% bibliography --file talks.bib%}
 
 </div>
 
