@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 
-<div class='publications'>
+<div class='talks'>
 
 {% talkbib %}
 
