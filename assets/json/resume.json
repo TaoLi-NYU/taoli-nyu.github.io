@@ -31,6 +31,15 @@
       "endDate": "",
       "summary": "Conducting reserach at NYU Center for Cybersecurity. My reserach brings together game theory, machine leanring, and control to develope system-level solution for cyber resilience.",
       "highlights": ["Game Theory", "Reinforcement Learning", "Control & Optimization"]
+    },
+    {
+      "name": "IEEE Control System Society (CSS) Technical Committee on Security & Privacy",
+      "position": "Student Task Force Coordinator",
+      "url": "https://sites.google.com/view/acc24-studentworkshop/home",
+      "startDate": "2023-03-01",
+      "endDate": "",
+      "summary": "Organizing activities at CSS flagship conferences to engage early-career researchers from multiple areas in control society and create a vibrant and sustainable research thrust dedicated to the security, privacy, and resiliency of the next-generation cyber-physical systems.",
+      "highlights" : ["ACC 2024 NextG S&P Student Workshop"]
     }
   ],
 
