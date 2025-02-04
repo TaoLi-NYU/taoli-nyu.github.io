@@ -24,12 +24,19 @@
   },
   "work": [
     {
+      "name": "University of Alberta",
+      "position": "Undergrad Research Assistant",
+      "startDate": "2017-05",
+      "endDate": "2017-10",
+      "summary": "Conducted research under Prof. Bin Han on applied and computational harmonic analysis with applications to image processing in the Deparment of Mathematical and Statistical Sciences.",
+      "highlights": ["Applied and Computation Harmonic Analysis", "Wavelets and Famelets", "Imaging Sciences"]
+    },
+    {
       "name": "New York University",
-      "position": "Research Assistant",
-      "url": "",
+      "position": "Research Assistant & Associate Lab Director",
       "startDate": "2018-09-01",
       "endDate": "",
-      "summary": "Conducting reserach at NYU Center for Cybersecurity. My reserach brings together game theory, machine leanring, and control to develope system-level solution for cyber resilience.",
+      "summary": "Conducting reserach at NYU Center for Cybersecurity and managing LARX Lab. My reserach brings together game theory, machine leanring, and control to develope system-level solution for cyber resilience.",
       "highlights": ["Game Theory", "Reinforcement Learning", "Control & Optimization"]
     },
     {
@@ -40,7 +47,16 @@
       "endDate": "",
       "summary": "Organizing activities at CSS flagship conferences to engage early-career researchers from multiple areas in control society and create a vibrant and sustainable research thrust dedicated to the security, privacy, and resiliency of the next-generation cyber-physical systems.",
       "highlights" : ["ACC 2024 NextG S&P Student Workshop"]
+    },
+    {
+      "name": "University of Illinois Urbana-Champaign",
+      "position": "Visiting Scholar",
+      "startDate": "2024-07",
+      "endDate": "2024-10",
+      "summary": "A short-term visit to Coordinated Science Lab. Collaborated with Prof. Tamer Başar on multi-agent learning in asymmetric information stochastic games.",
+      "highlights" : ["Multi-Agent Reinforcement Learning", "Information Structures", "Stochastic Games"]
     }
+
   ],
 
   "education": [
@@ -58,6 +74,16 @@
   ],
   "awards": [
     {
+      "title": "NSF Division of Mathematical Sciences (DMS) Travel Grant",
+      "date": "2025-02",
+      "awarder": "Selected as the only graduate student for research presentation at the Uncertainty Quantification Workshop, Institute for Mathematical and Statistical Innovation"
+    },
+    {
+      "title": "NSF NeTS Early Career Investigators (ECI) Workshop Travel Grant", 
+      "date": "2025-01",
+      "awarder": "NSF CNS: Networking Technology and Systems (NeTS) Program"
+    },
+    {
       "title": "Rising Star in AI and Machine Learning in Security",
       "date": "2024-11",
       "awarder" : "IEEE Technical Committee on Cognitive Networks"
@@ -66,7 +92,7 @@
     {
       "title": "Society for Industrial and Applied Mathematics Travel Award",
       "date": "2024-09",
-      "awarder" : "SIAM"
+      "awarder" : "SIAM's highly competitive Annual Travel Awards Program"
     },
 
 
