@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will present our recent effort on [Risk-Aware Long-Short-Term Adaptive Twining in Urban Traffic Digital Twin](https://arxiv.org/abs/2407.15025) at the [Institute for Mathematical and Statistical Innovation](https://www.imsi.institute/activities/uncertainty-quantification-strategies-for-multi-physics-systems-and-digital-twins/#register) in Chicago. Would love to meet old and new friends there!
+I presented our recent effort on [Risk-Aware Long-Short-Term Adaptive Twining in Urban Traffic Digital Twin](https://arxiv.org/abs/2407.15025) at the [Institute for Mathematical and Statistical Innovation](https://www.imsi.institute/activities/uncertainty-quantification-strategies-for-multi-physics-systems-and-digital-twins/#register) at University of Chicago. Thank the IMSI and NSF Divison of Mathematical Sciences for the travel grant. 
