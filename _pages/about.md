@@ -24,6 +24,8 @@ social: false  # includes social icons at the bottom of the page
 
 **Bio:** I am a PhD candidate in the Department of Electrical and Computer Engineering at New York University, working with [Quanyan Zhu](https://wp.nyu.edu/quanyan/). Before doing my PhD, I worked on [computational harmonic analysis](https://www.sciencedirect.com/science/article/pii/S0893965918304221) with [Bin Han](https://sites.ualberta.ca/~bhan/) at University of Alberta. I received the BS degree in Mathematics from Xiamen University. 
 
+**My Erdős Number is 3**: Paul Erdős (0) coauthored "[On chagnes of signs in infinite series](https://doi.org/10.1007/bf01904853)" (1978) with [Charles K. Chui](https://scholar.google.com/citations?user=2wSd9-MAAAAJ&hl=en) (1), who coauthored "[A dual-chain approach for bottom–up construction of wavelet filters with any integer dilation](https://doi.org/10.1016/j.acha.2011.11.004)" (2012) with [Bin Han](https://scholar.google.com/citations?user=HB3YA4gAAAAJ&hl=en)  (2), who coauthored "[Directional compactly supported box spline tight framelets with simple geometric structure](https://doi.org/10.1016/j.aml.2018.12.016)" (2019) with me (3).
+
 **Research Overview:** As summarized in the following graphic abstract (references therein point to the [CV](https://taoli-nyu.github.io/assets/pdf/TaoLi_Curriculum_Vitae.pdf)) , my research aims to develop 
 >  (Theory) computational foundations of agent-based technologies
 
