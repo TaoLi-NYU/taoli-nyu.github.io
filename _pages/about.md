@@ -26,14 +26,11 @@ social: false  # includes social icons at the bottom of the page
 
 **My Erdős Number is 3**: Paul Erdős (0) coauthored "[On chagnes of signs in infinite series](https://doi.org/10.1007/bf01904853)" (1978) with [Charles K. Chui](https://scholar.google.com/citations?user=2wSd9-MAAAAJ&hl=en) (1), who coauthored "[A dual-chain approach for bottom–up construction of wavelet filters with any integer dilation](https://doi.org/10.1016/j.acha.2011.11.004)" (2012) with [Bin Han](https://scholar.google.com/citations?user=HB3YA4gAAAAJ&hl=en)  (2), who coauthored "[Directional compactly supported box spline tight framelets with simple geometric structure](https://doi.org/10.1016/j.aml.2018.12.016)" (2019) with me (3).
 
-**Research Overview:** As summarized in the following graphic abstract (references therein point to the [CV](https://taoli-nyu.github.io/assets/pdf/TaoLi_Curriculum_Vitae.pdf)) , my research aims to develop 
->  (Theory) computational foundations of agent-based technologies
-
- with self-improving and self-healing abilities to facilitate 
- >  (Application) autonomous cyber-physical-human systems security & resilience.
+**Research Overview:** 
+> My research develops computational foundations of **mulit-agent learning**  under complex **information constraints** to achieve certified **robustness and resilience**.
 
 
- Leveraging techniques from reinforcement learning (RL) and artificial intelligence (AI), game theory, and control & optimization, my research advances [<b>multi-agent learning in complex networks</b>](https://doi.org/10.1016/j.arcontrol.2022.03.003) with applications to cyber, physical, and human layers, including [<b>cybersecurity & resilience</b>](https://arxiv.org/abs/2402.12499), [<b>intelligent transporation systems</b>](https://doi.org/10.1016/j.trc.2024.104804), and [<b>social networks misinformation detection & mitigation</b>](https://doi.org/10.23919/WiOpt58741.2023.10349848). 
+ Leveraging techniques from reinforcement learning (RL) and artificial intelligence (AI), game theory, and control & optimization, my research advances [<b>multi-agent learning in complex networks</b>](https://doi.org/10.1016/j.arcontrol.2022.03.003) with applications to cyber, physical, and human layers, including [<b>cybersecurity & resilience</b>](https://ieeexplore.ieee.org/document/10955193), [<b>intelligent transporation systems</b>](https://doi.org/10.1016/j.trc.2024.104804), and [<b>social networks misinformation detection & mitigation</b>](https://doi.org/10.23919/WiOpt58741.2023.10349848). 
  
  My future research will utilize [<b>digital twin (DT)</b>](https://arxiv.org/abs/2407.15025) technologies and advanced generative AI models, such as [<b>large language models (LLMs)</b>](https://arxiv.org/abs/2403.10570), to enhance the implementability of the developed agentic frameworks for human-centered, resilient autonomous mobility management in complex urban environments.
 <img src="/assets/img/cphs.png" alt="Research Thrusts Overview" width="800"/>
