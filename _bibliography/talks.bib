@@ -9,6 +9,33 @@ abstract = {}
 }
 --->
 
+
+
+@inproceedings{riccol,
+title = {{Digital-Twin-Enabled Predictive Traffic Sensing via Multi-Agent Risk-Constrained Online Learning}},
+booktitle = {The Annual East Coast Optimization Meeting},
+location = {Center for Mathematics and Artificial Intelligence, George Mason University, Arlington, VA},
+month = {Apr},
+year  = {2025},
+arxiv = {2407.15025}, 
+abstract = {We investigate real-time cooperative traffic sensing using pan-tilt cameras (PTC) in urban transportation networks for traffic digital twin (DT) synchronization and predictive mobility management. Each PTC is tasked with 1) real-time information acquisition: dynamically tilting its directions to capture maximum traffic flows across the network in coordination with other cameras to synchronize DT with the physical world, and 2) predictive surveillance: tilting its directions to monitor edges with high driving risks predicted by the DT before any incidents actually occur. We formulate the real-time PTC control problem as an online constrained optimization problem, allowing the PTC agents to dynamically balance two disparate yet closely related traffic sensing tasks and achieve proactive surveillance online. We propose the multi-agent risk-constrained online learning (MARCOL) algorithm to enable multiple PTC agents to solve the online constrained optimization collectively without intra-agent communication. The novelty of MARCOL lies in the correlated Lagrangian multiplier across the agent and the resulting primal-dual updates based on mirror descent, which helps the agent coordinate their tilting strategies. Since evaluating the Lagrangian function requires the network-level traffic states, MARCOL employs the DT to simulate and predict the underlying states using past camera observations. We conclude the presentation with theoretical insights on the asymptotics of the learning dynamics under a stylized setup and discuss its connection with the Berk-Nash equilibrium. }
+}
+
+
+
+
+@inproceedings{lstt,
+title = {{Risk-Aware Long-Short-Term Adaptive Twining in Urban Traffic Digital Twin}},
+booktitle = {Workshop on Uncertainty Quantification Strategies for Multi-Physics Systems and Digital Twins},
+location = {Institute for Mathematical and Statistical Innovation, University of Chicago, Chicago, IL},
+year = {2025},
+month = {Feb},
+abstract = {
+An urban digital twin (DT) can predict future traffic states by leveraging real-time urban traffic data collected by sensing infrastructure, enabling the simulation and testing of novel configurations and fostering proactive mobility management. To accurately replicate the mobility states, DT requires agent-based simulation techniques, such as the Simulation of Urban Mobility (SUMO), modeling individual vehicles and allowing for the observation of complex interactions and behaviors typical in real-world traffic. However, one instance of SUMO simulation of large-scale traffic networks, which we call twining, consumes substantial computation resources. Hence, within a given service horizon, an economical choice is to run fewer long-term simulations, which may incur a loss of fidelity due to less frequent calibration. On the other hand, short-term twining is more responsive to traffic disturbances and offers accurate replicas at the cost of higher computation overhead. To get the best of the two worlds, we propose a long-short-term twining (LSTT) mechanism, a self-adaptive twining scheme that automatically switches between long and short-term periods. We develop an event-triggered control strategy, where LSTT evaluates the simulation risk by comparing collected real-time traffic information with the simulated one and adjusts the twining period accordingly.
+},
+arxiv = {2407.15025} 
+}
+
 @inproceedings{opt-urban,
 title = {{Online Optimization Meets Urban Transportation}},
 booktitle = {Student Learning Hub Seminar Series},
@@ -59,7 +86,8 @@ abstract = {Today's security operations are largely manual, slow, costly, and of
 
 @inproceedings{csl,
 title = {{Conjectural Online Learning with First-order Beliefs in Stochastic Games}},
-location = {Coordinated Science Laboratory, University of Illinois Urbana-Champaign, Champaign, IL},
+booktitle = {Coordinated Science Laboratory Meeting}
+location = {University of Illinois Urbana-Champaign, Champaign, IL},
 month = {Aug},
 year  = {2024},
 abstract = {Existing computational methods for asymmetric information stochastic games (AISG) are primarily offline and can not adapt to equilibrium deviations. Further, current methods are limited to particular information structures to avoid belief hierarchies. Considering these limitations, we propose conjectural online learning (COL), an online learning method under generic information structures in AISGs. COL uses a forecaster-actor-critic architecture, where subjective forecasts are used to conjecture the opponents' strategies within a lookahead horizon, and Bayesian learning is used to calibrate the conjectures. To adapt strategies to nonstationary environments based on information feedback, COL uses online rollout with cost function approximation (actor-critic). We prove that the conjectures produced by COL are asymptotically consistent with the information feedback in the sense of a relaxed Bayesian consistency. We also prove that the empirical strategy profile induced by COL converges to the Berk-Nash equilibrium, a solution concept characterizing rationality under subjectivity.}
@@ -67,7 +95,8 @@ abstract = {Existing computational methods for asymmetric information stochastic
 
 @inproceedings{caltech,
 title = {{Automated Security Response Through Conjectural Online Learning under Information Asymmetry}},
-location = {Autonomous Robotics and Control Lab, California Institute of Technology, Pasadena, CA},
+booktitle = {Autonomous Robotics and Control Laboratory Meeting}
+location = {California Institute of Technology, Pasadena, CA},
 month = {Jun},
 year  = {2024},
 abstract = {We study automated security response for an IT infrastructure and formulate the interaction between an attacker and a defender as a partially observed, non-stationary game. We relax the standard assumption that the game model is correctly specified and consider that each player has a probabilistic conjecture about the model, which may be misspecified in the sense that the true model has probability 0. This formulation allows us to capture uncertainty and misconception about the infrastructure and the intents of the players. To learn effective game strategies online, we design Conjectural Online Learning (COL), a novel method where a player iteratively adapts its conjecture using Bayesian learning and updates its strategy through rollout. We prove that the conjectures converge to best fits, and we provide a bound on the performance improvement that rollout enables with a conjectured model. To characterize the steady state of the game, we propose a variant of the Berk-Nash equilibrium. We present COL through an advanced persistent threat use case. Testbed evaluations show that COL produces effective security strategies that adapt to a changing environment. We also find that COL enables faster convergence than current reinforcement learning techniques.}
@@ -94,7 +123,7 @@ location = {Stony Brook Center for Game Theory, Stony Brook, NY},
 month = {Jul},
 year  = {2022},
 html = {https://www.sciencedirect.com/science/article/abs/pii/S1367578822000086?via%3Dihub},
-abstract = {}
+abstract = { Multi-agent learning (MAL) studies how agents learn to behave optimally and adaptively from their experience when interacting with other agents in dynamic environments. Information structures play a significant role in the learning mechanisms of the agents. This review creates a taxonomy of MAL and establishes a unified and systematic way to understand MAL  from the perspective of information structures. We define three fundamental components of MAL: the information structure (i.e., what the agent can observe), the belief generation (i.e., how the agent forms a belief about others based on the observations), as well as the policy generation (i.e., how the agent generates its policy based on its belief). This perspective allows addressing one pivotal challenge in MAL, i.e., the non-stationarity of the environment when agents update their strategies concurrently. In addition, this taxonomy enables the classification of a wide range of state-of-the-art algorithms into four categories based on the belief-generation mechanisms of the opponents, including \emph{stationary, conjectured, calibrated}, and \emph{sophisticated opponents}. We introduce \emph{Value of Information} (VoI) as a metric to quantify the impact of different information structures on MAL. Finally, we discuss the strengths and limitations of algorithms from different categories and point to promising avenues of future research. }
 }
 
 

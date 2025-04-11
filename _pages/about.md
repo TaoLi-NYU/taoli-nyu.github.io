@@ -40,4 +40,4 @@ social: false  # includes social icons at the bottom of the page
 
 
 
-**Open to work!** I am on the 2024-2025 job market; please feel free to drop me a message if you feel I'm a good fit.
+
