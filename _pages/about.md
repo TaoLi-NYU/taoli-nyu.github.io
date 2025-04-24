@@ -9,7 +9,7 @@ profile:
   image: tao-sky-dive.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p style="text-align: center;">{{ taoli at nyu dot edu }}</p>
+    <p style="text-align: center;"> taoli at nyu dot edu </p>
   #   <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
