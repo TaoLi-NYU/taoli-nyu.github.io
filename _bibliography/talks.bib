@@ -69,6 +69,7 @@ booktitle = {Systems Engineering Department Seminar Series},
 location  = {City University of Hongkong, Hong Kong},
 month = {Oct},
 year = {2024},
+html = {https://ieeexplore.ieee.org/abstract/document/10955193},
 abstract = {Modern socio-technical network systems powered by artificial intelligence (AI) technologies feature sophisticated interactions among humans, AI agents, and system entities. Asymmetric information stochastic games (AISG) provide principled mathematical modeling for such interactions, leading to game-theoretical mechanisms for network management. However, existing computational and learning methods in asymmetric information stochastic games (AISG) are primarily offline without adaptability to online nonstationarity, which falls short of proactive intelligence for resilient network management. To address these limitations, we propose conjectural online learning (COL), an online learning framework for generic AISGs. COL uses a forecaster-actor-critic (FAC) architecture, where the forecaster conjectures the other agents' strategies and system dynamics within a look-ahead horizon, representing the agent's subjective (mis)perception of the AISG. Based on these subjective perceptions, COL employs online rollout (actor-critic) to improve the policy. Bayesian learning is then used to calibrate the conjectures using information feedback. We establish that the conjectures produced by COL are asymptotically consistent with the information feedback in the sense of a relaxed Bayesian consistency. We deploy COL in a nonstationary IT infrastructure digital twin, which delivers online adaptable defense against advanced persistent threats compared with benchmark reinforcement learning techniques. }
 }
 
@@ -90,6 +91,7 @@ booktitle = {Coordinated Science Laboratory},
 location = {University of Illinois Urbana-Champaign, Champaign, IL},
 month = {Aug},
 year  = {2024},
+html = {https://ieeexplore.ieee.org/document/10886479},
 abstract = {Existing computational methods for asymmetric information stochastic games (AISG) are primarily offline and can not adapt to equilibrium deviations. Further, current methods are limited to particular information structures to avoid belief hierarchies. Considering these limitations, we propose conjectural online learning (COL), an online learning method under generic information structures in AISGs. COL uses a forecaster-actor-critic architecture, where subjective forecasts are used to conjecture the opponents' strategies within a lookahead horizon, and Bayesian learning is used to calibrate the conjectures. To adapt strategies to nonstationary environments based on information feedback, COL uses online rollout with cost function approximation (actor-critic). We prove that the conjectures produced by COL are asymptotically consistent with the information feedback in the sense of a relaxed Bayesian consistency. We also prove that the empirical strategy profile induced by COL converges to the Berk-Nash equilibrium, a solution concept characterizing rationality under subjectivity.}
 }
 
@@ -99,6 +101,7 @@ booktitle = {Autonomous Robotics and Control Laboratory},
 location = {California Institute of Technology, Pasadena, CA},
 month = {Jun},
 year  = {2024},
+html = {https://ieeexplore.ieee.org/abstract/document/10955193},
 abstract = {We study automated security response for an IT infrastructure and formulate the interaction between an attacker and a defender as a partially observed, non-stationary game. We relax the standard assumption that the game model is correctly specified and consider that each player has a probabilistic conjecture about the model, which may be misspecified in the sense that the true model has probability 0. This formulation allows us to capture uncertainty and misconception about the infrastructure and the intents of the players. To learn effective game strategies online, we design Conjectural Online Learning (COL), a novel method where a player iteratively adapts its conjecture using Bayesian learning and updates its strategy through rollout. We prove that the conjectures converge to best fits, and we provide a bound on the performance improvement that rollout enables with a conjectured model. To characterize the steady state of the game, we propose a variant of the Berk-Nash equilibrium. We present COL through an advanced persistent threat use case. Testbed evaluations show that COL produces effective security strategies that adapt to a changing environment. We also find that COL enables faster convergence than current reinforcement learning techniques.}
 }
 
