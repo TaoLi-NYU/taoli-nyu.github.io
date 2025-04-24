@@ -8,11 +8,8 @@ profile:
   align: right
   image: tao-sky-dive.JPG
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>10th FL, NYU Center for Cybersecuirty</p>
-    <p>370 Jay St</p>
-    <p>NYU Tandon, 11201</p>
-  # <p style="text-align: center;">{{ 'be9636@princeton.edu' | email_protect }}</p>
+  more_info: >
+    <p style="text-align: center;">{{ 'taoli@nyu.edu' | email_protect }}</p>
   #   <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
