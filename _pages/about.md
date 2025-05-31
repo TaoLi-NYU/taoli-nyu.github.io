@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Ph.D. Electrical and Computer Engineering at <a href="https://engineering.nyu.edu/"> New York University </a>.
 
@@ -19,7 +19,7 @@ selected_talks: true
 social: false  # includes social icons at the bottom of the page
 ---
 
-**Bio:** I am a PhD candidate in the Department of Electrical and Computer Engineering at New York University, working with [Quanyan Zhu](https://wp.nyu.edu/quanyan/). Before doing my PhD, I worked on [computational harmonic analysis](https://www.sciencedirect.com/science/article/pii/S0893965918304221) with [Bin Han](https://sites.ualberta.ca/~bhan/) at University of Alberta. I received the BS degree in Mathematics from Xiamen University. 
+**Bio:** I am currently a visiting researcher at the IBM Thomas J. Watson Research Center, collaborating with the Mathematical Sciences and Quantum Computing divisions. I recently earned my Ph.D. in Electrical and Computer Engineering from New York University, advised by [Quanyan Zhu](https://wp.nyu.edu/quanyan/). Prior to my doctoral studies, I conducted research in computational harmonic analysis under the supervision of [Bin Han](https://sites.ualberta.ca/~bhan/) at the University of Alberta. I hold a B.S. in Mathematics, graduating summa cum laude from Xiamen University.
 
 **My Erdős Number is 3**: Paul Erdős (0) coauthored "[On chagnes of signs in infinite series](https://doi.org/10.1007/bf01904853)" (1978) with [Charles K. Chui](https://scholar.google.com/citations?user=2wSd9-MAAAAJ&hl=en) (1), who coauthored "[A dual-chain approach for bottom–up construction of wavelet filters with any integer dilation](https://doi.org/10.1016/j.acha.2011.11.004)" (2012) with [Bin Han](https://scholar.google.com/citations?user=HB3YA4gAAAAJ&hl=en)  (2), who coauthored "[Directional compactly supported box spline tight framelets with simple geometric structure](https://doi.org/10.1016/j.aml.2018.12.016)" (2019) with me (3).
 
