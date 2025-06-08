@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Tao Li",
-    "label": "PhD Candidate at New York University",
+    "label": "Assistant Professor at City University of Hong Kong",
     "image": "",
     "email": "taoli@nyu.edu",
     "phone": "(347) 725-7275",
     "url": "https://taoli-nyu.github.io",
-    "summary": "A researcher working on game-theoretic multi-agent learning under amorphous information structures.",
+    "summary": "A researcher in the intersection of game theory, reinforcement learning, and control.",
     "location": {
       "address": "370 Jay St",
       "postalCode": "NY 11201",
@@ -16,9 +16,9 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
@@ -55,8 +55,16 @@
       "endDate": "2024-10",
       "summary": "A short-term visit to Coordinated Science Lab. Collaborated with Prof. Tamer Başar on multi-agent learning in asymmetric information stochastic games.",
       "highlights" : ["Multi-Agent Reinforcement Learning", "Information Structures", "Stochastic Games"]
-    }
 
+    },
+    {
+      "name": "IBM Research",
+      "position": "Visiting Researcher",
+      "startDate": "2024-05",
+      "endDate": "2024-09",
+      "summary": "A short-term visit to IBM Research, Thomas J. Watson Research Center, collaborating with the Mathematical Sciences and Quantum Computing divisions.",
+      "highlights": ["Quantum Algorithm", "Game Theory"]
+    }
   ],
 
   "education": [
@@ -70,6 +78,17 @@
       "endDate": "2018-07-01",
       "score": "",
       "courses": ["Harmonic Analysis", "Wavelets"]
+    },
+    {
+      "institution": "New York University",
+      "location": "New York, USA",
+      "url": "",
+      "area": "Electrical and Computer Engineering",
+      "studyType": "Doctor of Philosophy",
+      "startDate": "2018-09-01",
+      "endDate": "2020-05-15",
+      "score": "",
+      "courses": ["Game Theory", "Reinforcement Learning", "Control Theory"]
     }
   ],
   "awards": [
