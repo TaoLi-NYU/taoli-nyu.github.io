@@ -29,6 +29,6 @@ Based on the applicants' backgrounds and research interests, I will recommend on
 
 **If you are interested, please fill this [form](https://forms.office.com/r/HYGM7Nt8vh?origin=lprLink), and I will contact you soon.** If you have any questions, contact me at [taoli.cityuhk@gmail.com](mailto:taoli.cityuhk@gmail.com).
 
-I take Ph.D. students from mainly from the [Department of Systems Engineering](https://www.cityu.edu.hk/sye/) and sometimes from the [Department of Data Science](https://www.ds.cityu.edu.hk/). Please check out the addimission requirements for Ph.D. in [Systems Engineering](https://www.cityu.edu.hk/sye/phdmphil.htm) and [Data Science](https://www.ds.cityu.edu.hk/programmes/postgraduate-programmes/phd-programme-data-science).
+I take Ph.D. students mainly from the [Department of Systems Engineering](https://www.cityu.edu.hk/sye/) and sometimes from the [Department of Data Science](https://www.ds.cityu.edu.hk/). Please check out the addimission requirements for Ph.D. in [Systems Engineering](https://www.cityu.edu.hk/sye/phdmphil.htm) and [Data Science](https://www.ds.cityu.edu.hk/programmes/postgraduate-programmes/phd-programme-data-science).
 
 
