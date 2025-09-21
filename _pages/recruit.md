@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /hiring/
+permalink: /opening/
 title: Openings
 description: 
 nav: true
