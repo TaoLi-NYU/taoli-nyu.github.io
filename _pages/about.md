@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant Professor at <a href="https://www.cityu.edu.hk/sye/stafflist.htm"> City University of Hong Kong </a>.
+subtitle: Assistant Professor at <a href="https://www.cityu.edu.hk/stfprofile/taoli56.htm"> City University of Hong Kong </a>.
 
 profile:
   align: right
@@ -28,9 +28,9 @@ social: false  # includes social icons at the bottom of the page
 
 
 **Prospective Students**: I am always actively looking for self-motivated students to join my research group as **PhD students**, **research assistants** (long/short-term/remote), and **interns**. We welcome applicants with 
-- strong mathematical backgrounds in reinforcement learning, control and optimization, and game theory and/or 
+- strong mathematical backgrounds in reinforcement learning, control and optimization, and game theory, and/or 
 - practical experience with RL algorithms, large language models (foundation models), and simulation platforms in cybersecurity (e.g., those included in this [repo](https://github.com/Limmen/awesome-rl-for-cybersecurity?tab=readme-ov-file#-environments)), vehicular, and traffic simulation (e.g., CARLA and SUMO).
 
-For more information on joining us, please check out the [openings](/_pages/recruit.md). 
+For more information on joining us, please check out the [openings]({% link _pages/recruit.md %}). Due to the high volume of messages I receive at my school email, please contact me at my personal address [taoli.cityuhk@gmail.com](mailto:taoli.cityuhk@gmail.com) to ensure I see your message. Alternatively, you can fill this [form](https://forms.office.com/r/HYGM7Nt8vh?origin=lprLink) to let me know your interest in joining us.
 
 
