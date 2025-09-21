@@ -7,7 +7,13 @@ nav: true
 nav_order: 1
 ---
 
-## New York University (2021 -- present)
+## City University of Hong Kong
+
+### Undergrad Teaching
+- Fall 2025 SYE 2010 Fundamental Engineering Analysis and Design I
+ß
+
+## New York University (2021 -- 2025)
 
 ### Teaching 
 - Fall 2023 ECE-GY 5213 System Engineering: TA. 
