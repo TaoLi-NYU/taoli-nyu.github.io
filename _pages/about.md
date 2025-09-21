@@ -27,10 +27,10 @@ social: false  # includes social icons at the bottom of the page
 > My research develops computational foundations of **[mulit-agent learning](https://ieeexplore.ieee.org/abstract/document/9833086/)** under complex **[information structures](https://www.sciencedirect.com/science/article/abs/pii/S1367578822000086)** to achieve certified robustness and resilience in AI-integrated network systems across **[cyber](https://ieeexplore.ieee.org/abstract/document/10955193)**, **[physical](https://ieeexplore.ieee.org/abstract/document/11153748)**, and **[huamn](https://ieeexplore.ieee.org/document/11091502)** layers.
 
 
-I am always actively looking for self-motivated students to join my research group as **PhD students**, **research assistants** (long/short-term/remote), and **interns**. We welcome applicants with 
-- 1）strong mathematical backgrounds in reinforcement learning, control and optimization, and game theory and/or 
-- 2）practical experience with RL algorithms, large language models (foundation models), and simulation platforms in cybersecurity (e.g., those included in this [repo](https://github.com/Limmen/awesome-rl-for-cybersecurity?tab=readme-ov-file#-environments)), vehicular, and traffic simulation (e.g., CARLA and SUMO).
+**Prospective Students** I am always actively looking for self-motivated students to join my research group as **PhD students**, **research assistants** (long/short-term/remote), and **interns**. We welcome applicants with 
+- strong mathematical backgrounds in reinforcement learning, control and optimization, and game theory and/or 
+- practical experience with RL algorithms, large language models (foundation models), and simulation platforms in cybersecurity (e.g., those included in this [repo](https://github.com/Limmen/awesome-rl-for-cybersecurity?tab=readme-ov-file#-environments)), vehicular, and traffic simulation (e.g., CARLA and SUMO).
 
-For more information on joining us, please see 
+For more information on joining us, please see [Prospective Students](_pages/hiring/) 
 
 

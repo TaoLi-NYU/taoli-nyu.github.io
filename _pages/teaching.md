@@ -7,22 +7,25 @@ nav: true
 nav_order: 1
 ---
 
-## City University of Hong Kong
+## **City University of Hong Kong (2025 -- Present)**
 
-### Undergrad Teaching
+#### **Undergrad Teaching**
 - Fall 2025 SYE 2010 Fundamental Engineering Analysis and Design I
-ß
 
-## New York University (2021 -- 2025)
+<br>
+<br>
+<br>
 
-### Teaching 
-- Fall 2023 ECE-GY 5213 System Engineering: TA. 
+## **New York University** (2021 -- 2025)
 
-- Fall 2022 ECE-GY 6263 Game Theory: TA and Lecturer.
+#### **Graduate Teaching** 
+- Fall 2023 ECE-GY 5213 System Engineering
+
+- Fall 2022 ECE-GY 6263 Game Theory
  
-- Spring 2022 ECE-GY 6233 System Optimization Methods: TA.
+- Spring 2022 ECE-GY 6233 System Optimization Methods
 
-### Mentoring
+#### **Mentoring**
 
 - Summer 2024 NYU Global Program: Junjie Huang (Undergrad at NYU Shanghai), [LLM-based Automoated Penetration Testing and Remediation](https://arxiv.org/abs/2407.17788), [<b> Best Student Paper Award</b>](https://www.linkedin.com/posts/alide_cybersecurity-autonomouscyber-futureofcyber-activity-7253213169811103745-gvxo?utm_source=share&utm_medium=member_desktop) at ACM CCS 2024. 
 
