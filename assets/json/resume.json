@@ -162,29 +162,7 @@
       "awarder": "Ministry of Education of China"
     }
 
-  ],
-  
-  "references": [
-    {
-      "name": "Dr. Quanyan Zhu",
-      "reference": "Associate Professor, NYU Center for Cybersecurity.",
-      "email": "quanyan.zhu@nyu.edu"
-    },
-    {
-      "name": "Dr. Sundeep Rangan",
-      "reference": "Professor and Director of NYU Wireless.",
-      "email": "srangan@nyu.edu"
-    },
-    {
-      "name": "Dr. Kaan Ozbay",
-      "reference": "Professor and Director of NYU C2SMART.",
-      "email": "kaan.ozbay@nyu.edu"
-    },
-    {
-      "name" : "Dr. Tamer Basar",
-      "reference": "Swanlund Endowed Chair Emeritus and Center for Advanced Study Professor Emeritus Department of Electrical and Computer Engineering, UIUC.",
-      "email": "basar1@illinois.edu"
-    }
   ]
+  
   
 }
