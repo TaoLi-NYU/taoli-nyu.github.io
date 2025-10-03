@@ -1,8 +1,11 @@
 ---
 layout: post
-date: 2024-09-26 00:00:00-0400
+date: 2025-10-27 00:00:00-0400
 inline: true
 related_posts: false
 ---
 
-I received the student travel award from the Society for Industrial and Applied Mathematics, allowing me to present our work on [conjectural preditive reinforcement learning](https://arxiv.org/abs/2402.12499) at the conference on [Mathematics of Data Science (MDS 2024)](https://www.siam.org/conferences-events/siam-conferences/mds24/).
+I am co-organizing three sessions at this year's INFORMS Annual Meeting. Please do stop by and join us!
+- **[MA18]** *Computational Foundations of Leanring & Optimization in Multi-Agent Systems*, Oct. 27, 8:00 - 9: 15 AM, A404
+- **[MA21]** *From Streets to Systems: Cross-Domain Digital Twins in Urban Transportation*, Oct. 27, 8:00 - 9: 15 AM, A404
+- **[ME67]** *AI for Security & Resilience in Complex Networks*, Oct. 27, 4:15 - 5:30 PM, B407 

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-07-12 16:11:00-0400
+date: 2025-05-21 16:11:00-0400
 inline: true
 related_posts: false
 ---
 
-We have organized a wonderful special student session [Security and Privacy of the Next-Generation Cyber-Physical Systems](https://sites.google.com/view/acc24-studentworkshop/home) at this year's [American Control Conference](https://acc2024.a2c2.org/program/special-sessions#session-6-41). We are looking for new blood to join our organizing committee for this year's Conference on Decision and Control in Milan, Italy!
+Our work on [game-theoretic transformer](https://arxiv.org/abs/2310.04579) won the best paper runner up at the 17th workshop on [Adaptive and Learning Agents](https://ala-workshop.github.io/#), co-located with AAMAS. Using the idea of self-confirming equilibrium in game theory, we are making offline MARL agents more adaptable when facing out-of-distribution opponents.  
